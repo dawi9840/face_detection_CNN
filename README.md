@@ -11,7 +11,7 @@ Second, use the codes to follow the next steps:
   
     step03: Use showdb.py to make sure the database you have to load in.
   
-    step04: Modify the prepare_data.py file, which in load_dataset() function with many labels(e.g. if you have 5 users data, you can modify the 5 labels in label_dict{[ labels ]}).
+    step04: Modify the prepare_data.py file, which in load_dataset() function with many labels(e.g. if you have 5 users, you can modify the 5 labels in label_dict{[labels]}).
   
     step05: Run the tf1_train.py, remember to modify parameter about nb_classes, batch_size, and nb_epoch, also can choose data_augmentation true or false.
   
