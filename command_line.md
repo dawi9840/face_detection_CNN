@@ -2,6 +2,8 @@ Environment:
 
     USB Camera
     
+    Arduino board
+    
     Python 3.7.X
     
     Tensorflow 1.15.0
@@ -12,7 +14,7 @@ Environment:
     
     sklearn 
     
-    Arduino board
+   
 -------------------
 
 Install-Package:
