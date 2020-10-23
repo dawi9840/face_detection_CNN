@@ -33,7 +33,7 @@ Environment:
 
     conda create –n [your_env] python=3.7
     # 新增環境，[your_env] 是你的環境名稱
-    # python=X.X 是指定環境python版本，一般來說3.6 3.7
+    # python=X.X 是指定環境python版本，較常用3.6c或3.7版本
 
     conda activate [your_env] 
     # 進入環境
