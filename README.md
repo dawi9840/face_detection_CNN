@@ -7,7 +7,7 @@ Second, use the codes to follow the next steps:
 
     step01: Run createdb.py to create a database.
   
-    step02:  Use catch_pic_db.py to catch user face pictures and register into  step01 database.
+    step02: Use catch_pic_db.py to catch user face pictures and register into  step01 database.
   
     step03: Use showdb.py to make sure the database you have to load in.
   
