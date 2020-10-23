@@ -13,7 +13,7 @@ Environment:
     sklearn 
 -------------------
 
-套件安裝:
+Install-Package:
 
     conda install -c anaconda pillow
 
@@ -29,7 +29,7 @@ Environment:
 
 ----------------------------------
 
-環境指令:
+Env command:
 
     conda create –n [your_env] python=3.7
     # 新增環境，[your_env] 是你的環境名稱
