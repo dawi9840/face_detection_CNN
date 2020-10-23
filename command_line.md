@@ -1,6 +1,6 @@
 Environment:
 
-    USB Cam
+    USB Camera
     
     Python 3.7.X
     
@@ -11,6 +11,8 @@ Environment:
     keras 2.2.4
     
     sklearn 
+    
+    Arduino board
 -------------------
 
 Install-Package:
