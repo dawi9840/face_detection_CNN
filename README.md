@@ -1,5 +1,6 @@
 # face_detection_CNN
 Use CNN model to classify the users face and combine with Arduino.
+![image](https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
 
 First one, we must to create 2 empty folders, named "data" and "model", which will be saved parameter files and used by the codes.
 
